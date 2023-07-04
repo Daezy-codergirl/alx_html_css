@@ -1,4 +1,4 @@
-This project contains a more advanced HTML structure. 
+This project contains a more advanced HTML structure.
 It is the landing page of a learning management system
 It comprises a header, a body, and a footer.
 The header contains a logo and links
