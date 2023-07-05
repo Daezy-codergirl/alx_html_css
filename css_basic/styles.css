@@ -2,11 +2,15 @@ body{
  display: flex;
  flex-direction: column;
 }
+header{
+ background-color: blueviolet;
+}
+
 main{
  display: flex;
  flex-direction: row;
  flex: auto;
- 
+
 }
 article{
  flex: 2;
@@ -15,4 +19,21 @@ article{
 aside{
  flex: 1;
  
+}
+ img {
+ width: 100px;
+ height: 100px;
+ border-radius:50px;
+ border: 1px solid blueviolet;
+}
+ table {
+ border: 1px solid black;
+ border-collapse: collapse;
+}
+ th,
+ td {
+ padding: 8px;
+ text-align: left;
+ border-bottom: 1px solid #282727;
+ border-right: 1px solid black;
 }
