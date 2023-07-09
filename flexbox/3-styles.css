@@ -184,6 +184,9 @@
   .row{
    display: flex;
   }
+  .row .section-row {
+    flex-wrap: wrap;
+  }
   ul.row {
     margin: 0;
     padding: 0;
